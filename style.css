@@ -13,6 +13,9 @@ div.separator {
 div.clearFix {
 	clear: both;
 }
+img {
+	border: 0;
+}
 #container {
 	background-color: white;
 	margin: 0 auto;
