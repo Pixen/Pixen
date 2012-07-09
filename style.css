@@ -34,6 +34,24 @@ img {
 		content: url('images/icon-2x.png');
 	}
 }
+a.btn {
+	display: block;
+	float: left;
+	padding: 6px 12px;
+	margin-right: 4px;
+	border: 1px #666666 solid;
+	background-image: -webkit-linear-gradient(#1278c6, #0b3889);
+	color: white;
+	font-size: 14px;
+	text-shadow: 1px 1px 1px black;
+	text-decoration: none;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+}
+a.btn:hover {
+	background-image: -webkit-linear-gradient(#0b59af, #08206e);
+}
 #main {
 	padding-bottom: 14px;
 }
