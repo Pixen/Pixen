@@ -26,6 +26,14 @@ img {
 	-moz-border-radius: 8px;
 	-moz-box-shadow: 0 1px 6px #888;
 }
+#icon {
+	content: url('images/icon.png');
+}
+@media screen and (-webkit-min-device-pixel-ratio: 2) {
+	#icon {
+		content: url('images/icon-2x.png');
+	}
+}
 #main {
 	padding-bottom: 14px;
 }
