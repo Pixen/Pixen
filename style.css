@@ -39,7 +39,7 @@ a.btn {
 	padding: 6px 12px;
 	margin-right: 4px;
 	border: 1px #666666 solid;
-	background-image: -webkit-linear-gradient(#1278c6, #0b3889);
+	background-image: -webkit-linear-gradient(#3a95db 0%, #2a6c9d 100%);
 	color: white;
 	font-size: 14px;
 	text-shadow: 1px 1px 1px black;
@@ -49,7 +49,7 @@ a.btn {
 	border-radius: 6px;
 }
 a.btn:hover {
-	background-image: -webkit-linear-gradient(#0b59af, #08206e);
+	background-image: -webkit-linear-gradient(#2670a8 0%, #144469 100%);
 }
 #main {
 	padding-bottom: 14px;
