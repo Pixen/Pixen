@@ -53,10 +53,10 @@ a.btn:hover {
 }
 
 a.btn.green {
-	background-image: -webkit-linear-gradient(#32c766 0%, #1b9c39 100%);
+	background-image: -webkit-linear-gradient(#32c766 0%, #188e34 100%);
 }
 a.btn.green:hover {
-	background-image: -webkit-linear-gradient(#25aa54 0%, #1b8334 100%);
+	background-image: -webkit-linear-gradient(#22ab52 0%, #15752b 100%);
 }
 
 #main {
