@@ -51,6 +51,14 @@ a.btn {
 a.btn:hover {
 	background-image: -webkit-linear-gradient(#2670a8 0%, #144469 100%);
 }
+
+a.btn.green {
+	background-image: -webkit-linear-gradient(#32c766 0%, #1b9c39 100%);
+}
+a.btn.green:hover {
+	background-image: -webkit-linear-gradient(#25aa54 0%, #1b8334 100%);
+}
+
 #main {
 	padding-bottom: 14px;
 }
