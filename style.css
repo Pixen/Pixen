@@ -111,10 +111,11 @@ div.feature p {
 }
 
 #gallery {
-	padding-top: 10px;
-	padding-bottom: 9px;
+	padding-top: 12px;
+	padding-bottom: 10px;
+	text-align: center;
 }
 #gallery img {
 	margin-right: 6px;
-	border: 1px rgb(100,100,100) solid;
+	border: 1px rgb(175,175,175) solid;
 }
