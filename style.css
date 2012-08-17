@@ -23,6 +23,8 @@ img {
 	width: 780px;
 	-webkit-border-radius: 8px;
 	-webkit-box-shadow: 0 1px 6px #888;
+	-moz-border-radius: 8px;
+	-moz-box-shadow: 0 1px 6px #888;
 	border-radius: 8px;
 	box-shadow: 0 1px 6px #888;
 }
