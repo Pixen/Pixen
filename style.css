@@ -109,6 +109,12 @@ div.feature p {
 	line-height: 1.5em;
 	margin-top: 6px;
 }
-.fancybox img {
+
+#gallery {
+	padding-top: 10px;
+	padding-bottom: 9px;
+}
+#gallery img {
 	margin-right: 6px;
+	border: 1px rgb(100,100,100) solid;
 }
