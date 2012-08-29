@@ -38,8 +38,8 @@ img {
 a.btn {
 	display: block;
 	float: left;
-	padding: 6px 12px;
-	margin-right: 4px;
+	padding: 6px 10px;
+	margin-right: 6px;
 	border: 1px #666666 solid;
 	background-image: -webkit-linear-gradient(#3a95db 0%, #2a6c9d 100%);
 	background-image: -moz-linear-gradient(#3a95db 0%, #2a6c9d 100%);
