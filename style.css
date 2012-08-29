@@ -64,9 +64,9 @@ a.btn.yellow {
 	background-image: linear-gradient(#dac30e 0%, #ab8b0b 100%);
 }
 a.btn.yellow:hover {
-	background-image: -webkit-linear-gradient(#dac30e 0%, #ab8b0b 100%);
-	background-image: -moz-linear-gradient(#dac30e 0%, #ab8b0b 100%);
-	background-image: linear-gradient(#dac30e 0%, #ab8b0b 100%);
+	background-image: -webkit-linear-gradient(#b9a50a 0%, #937809 100%);
+	background-image: -moz-linear-gradient(#b9a50a 0%, #937809 100%);
+	background-image: linear-gradient(#b9a50a 0%, #937809 100%);
 }
 
 a.btn.green {
