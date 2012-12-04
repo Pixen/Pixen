@@ -129,3 +129,14 @@ div.feature p {
 	margin-right: 6px;
 	border: 1px rgb(175,175,175) solid;
 }
+
+div.footer p {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+	text-shadow: 0 1px 1px white;
+	font-size: 13px;
+}
+div.footer p a {
+	color: #275c98;
+}
