@@ -114,11 +114,12 @@ div.column {
 	float: left;
 }
 div.feature h3 {
-	font-size: 14px;
+	font-size: 16px;
 	margin-bottom: 0;
 }
 div.feature p {
-	font-size: 13px;
+	font-family: "nimbus-sans";
+	font-size: 15px;
 	line-height: 1.5em;
 	margin-top: 6px;
 }
