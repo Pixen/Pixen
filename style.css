@@ -99,7 +99,6 @@ a.btn.green:hover {
 	margin-bottom: 0;
 }
 #main h2 {
-	font-family: "museo-slab";
 	font-size: 20px;
 	color: gray;
 	margin-top: 8px;
@@ -115,6 +114,7 @@ div.column {
 	float: left;
 }
 div.feature h3 {
+	font-family: "museo-slab";
 	font-size: 16px;
 	margin-bottom: 0;
 }
