@@ -41,9 +41,9 @@ a.btn {
 	padding: 6px 14px;
 	margin-right: 8px;
 	border: 1px #666666 solid;
-	background-image: -webkit-linear-gradient(#3b89e4 0%, #2b63a5 100%);
-	background-image: -moz-linear-gradient(#3b89e4 0%, #2b63a5 100%);
-	background-image: linear-gradient(#3b89e4 0%, #2b63a5 100%);
+	background-image: -webkit-linear-gradient(#3b89e4 0%, #2b68c6 100%);
+	background-image: -moz-linear-gradient(#3b89e4 0%, #2b68c6 100%);
+	background-image: linear-gradient(#3b89e4 0%, #2b68c6 100%);
 	color: white;
 	font-family: "nimbus-sans";
 	font-size: 16px;
