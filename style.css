@@ -115,7 +115,8 @@ div.column {
 }
 div.feature h3 {
 	font-family: "museo-slab";
-	font-size: 16px;
+	font-style: italic;
+	font-size: 18px;
 	margin-bottom: 0;
 }
 div.feature p {
