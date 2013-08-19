@@ -99,6 +99,7 @@ a.btn.green:hover {
 	margin-bottom: 0;
 }
 #main h2 {
+	font-family: "museo-slab";
 	font-size: 20px;
 	color: gray;
 	margin-top: 8px;
