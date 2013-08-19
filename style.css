@@ -38,14 +38,15 @@ img {
 a.btn {
 	display: block;
 	float: left;
-	padding: 6px 10px;
-	margin-right: 6px;
+	padding: 6px 14px;
+	margin-right: 8px;
 	border: 1px #666666 solid;
 	background-image: -webkit-linear-gradient(#3a85dc 0%, #204979 100%);
 	background-image: -moz-linear-gradient(#3a85dc 0%, #204979 100%);
 	background-image: linear-gradient(#3a85dc 0%, #204979 100%);
 	color: white;
-	font-size: 14px;
+	font-family: "nimbus-sans";
+	font-size: 16px;
 	text-shadow: 1px 1px 1px black;
 	text-decoration: none;
 	-webkit-border-radius: 6px;
@@ -56,17 +57,6 @@ a.btn:hover {
 	background-image: -webkit-linear-gradient(#2358af 0%, #142d55 100%);
 	background-image: -moz-linear-gradient(#2358af 0%, #142d55 100%);
 	background-image: linear-gradient(#2358af 0%, #142d55 100%);
-}
-
-a.btn.yellow {
-	background-image: -webkit-linear-gradient(#e3b42b 0%, #7d6317 100%);
-	background-image: -moz-linear-gradient(#e3b42b 0%, #7d6317 100%);
-	background-image: linear-gradient(#e3b42b 0%, #7d6317 100%);
-}
-a.btn.yellow:hover {
-	background-image: -webkit-linear-gradient(#b4890c 0%, #57430a 100%);
-	background-image: -moz-linear-gradient(#b4890c 0%, #57430a 100%);
-	background-image: linear-gradient(#b4890c 0%, #57430a 100%);
 }
 
 a.btn.green {
