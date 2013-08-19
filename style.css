@@ -22,11 +22,11 @@ img {
 	padding: 20px;
 	width: 780px;
 	-webkit-border-radius: 8px;
-	-webkit-box-shadow: 0 1px 6px #888;
+	-webkit-box-shadow: 0 2px 5px #888;
 	-moz-border-radius: 8px;
-	-moz-box-shadow: 0 1px 6px #888;
+	-moz-box-shadow: 0 2px 5px #888;
 	border-radius: 8px;
-	box-shadow: 0 1px 6px #888;
+	box-shadow: 0 2px 5px #888;
 }
 
 @media screen and (-webkit-min-device-pixel-ratio: 2) {
