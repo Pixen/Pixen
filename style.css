@@ -61,8 +61,8 @@ a.btn:hover {
 
 a.btn.green {
 	background-image: -webkit-linear-gradient(#40e42d 0%, #35cc20 100%);
-	background-image: -moz-linear-gradient(#3b89e4 0%, #3f641b 100%);
-	background-image: linear-gradient(#3b89e4 0%, #3f641b 100%);
+	background-image: -moz-linear-gradient(#40e42d 0%, #35cc20 100%);
+	background-image: linear-gradient(#40e42d 0%, #35cc20 100%);
 }
 a.btn.green:hover {
 	background-image: -webkit-linear-gradient(#4f8c16 0%, #28450e 100%);
