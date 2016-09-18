@@ -13,7 +13,7 @@ If you'd like to obtain the latest version of Pixen and support the project, ple
 Support
 -------
 
-You may use the [Issues](https://github.com/Pixen/Pixen/issues) page to file bug reports or request features for future releases.
+Please use the in-app **Send Feedback** command under the Help menu to file bug reports and request features for future releases.
 
 **Follow us on Twitter [@pixenapp](http://twitter.com/pixenapp)!**
 
